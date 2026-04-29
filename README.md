@@ -33,10 +33,9 @@ I am a passionate Computer Science student who loves solving problems and buildi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="35px"> Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/itadnanhussain/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 <a href="mailto:itadnanhussain@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>&nbsp;
-<a href="https://github.com/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>&nbsp;
-<a href="https://yourportfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-%2361DAFB.svg?style=for-the-badge&logo=google-chrome&logoColor=black" alt="portfolio" /></a>
+<a href="https://github.com/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 ---
