@@ -32,9 +32,13 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" width="35px"> Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35px"> Online Judges
 
-🔹 **Coming Soon...** (Working on some exciting Data Science projects!)
+<p align="center">
+<a href="https://codeforces.com/profile/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" /></a>&nbsp;
+<a href="https://www.codechef.com/users/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" /></a>&nbsp;
+<a href="https://judge.beecrowd.com/en" target="blank"><img align="center" src="https://img.shields.io/badge/Beecrowd-F9AA33?style=for-the-badge&logo=beecrowd&logoColor=black" alt="beecrowd" /></a>
+</p>
 
 ---
 
