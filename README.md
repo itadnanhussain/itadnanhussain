@@ -8,11 +8,20 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35px"> About Me
 
-I am a passionate Computer Science student who loves solving problems and building real-world applications. Currently, I am focused on learning software development and data science.
+<table>
+  <tr>
+    <td>
+      I am a passionate Computer Science student who loves solving problems and building real-world applications. Currently, I am focused on learning software development and data science.
 
-- 🏆 **Competitive Programming Enthusiast**
-- 🐍 **Data Science Learner**
-- 🎯 **Goal:** Become a professional Data Scientist
+      - 🏆 **Competitive Programming Enthusiast**
+      - 🐍 **Data Science Learner**
+      - 🎯 **Goal:** Become a professional Data Scientist
+    </td>
+    <td width="400px">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--business-man-development-pack-illustrations-5203362.png" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
