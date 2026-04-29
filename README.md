@@ -17,8 +17,8 @@
       - 🐍 **Data Science Learner**
       - 🎯 **Goal:** Become a professional Data Scientist
     </td>
-    <td>
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--business-man-development-pack-illustrations-5203362.png" width="300px" />
+    <td width="40%">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--business-man-development-pack-illustrations-5203362.png" width="100%" />
     </td>
   </tr>
 </table>
