@@ -35,9 +35,15 @@ I am a passionate Computer Science student who loves solving problems and buildi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35px"> Online Judges
 
 <p align="center">
-<a href="https://codeforces.com/profile/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" /></a>&nbsp;
-<a href="https://www.codechef.com/users/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" /></a>&nbsp;
-<a href="https://judge.beecrowd.com/en" target="blank"><img align="center" src="https://img.shields.io/badge/Beecrowd-F9AA33?style=for-the-badge&logo=beecrowd&logoColor=black" alt="beecrowd" /></a>
+  <a href="https://codeforces.com/profile/itadnanhussain" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="50px" alt="Codeforces" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/itadnanhussain" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="50px" style="filter: invert(1);" alt="CodeChef" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://judge.beecrowd.com/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/itadnanhussain/itadnanhussain/main/beecrowd.png" onerror="this.src='https://cdn.iconscout.com/icon/free/png-256/free-code-3522901-2947113.png'" width="50px" alt="Beecrowd" />
+  </a>
 </p>
 
 ---
