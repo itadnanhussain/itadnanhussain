@@ -48,10 +48,6 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/social-media-connection-illustration-download-in-svg-png-gif-file-formats--marketing-digital-online-network-business-concept-pack-illustrations-5349141.png" width="350px" />
-</p>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="35px"> Connect with me
 
 <p align="center">
