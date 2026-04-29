@@ -36,13 +36,13 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 <p align="center">
   <a href="https://codeforces.com/profile/itadnanhussain" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="45px" alt="Codeforces" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="38px" alt="Codeforces" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/itadnanhussain/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" alt="LeetCode" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628861-3030025.png" width="38px" alt="LeetCode" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/itadnanhussain" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-Dark.png" width="45px" alt="HackerRank" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628833-3029997.png" width="38px" alt="HackerRank" />
   </a>
 </p>
 
