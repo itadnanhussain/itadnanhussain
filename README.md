@@ -1,6 +1,6 @@
 # 👋 **Hi there, I'm Adnan Hussain!**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Competitive+Programmer;Data+Science+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 ### 💻 A Technology Enthusiast | CSE Student
 
