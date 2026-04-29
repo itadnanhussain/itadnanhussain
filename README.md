@@ -18,14 +18,8 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ## <img src="https://github.com/TheRealSanjeev/TheRealSanjeev/blob/master/assets/github.gif?raw=true" width="25px"> Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,react,nodejs,mongodb&theme=dark" />
 </p>
 
 ---
@@ -38,7 +32,7 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/loop.gif" width="30px"> Connect with me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 <a href="mailto:itadnanhussain@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>&nbsp;
 <a href="https://github.com/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>&nbsp;
