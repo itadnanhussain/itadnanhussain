@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZ3p6eGZueXo0eXo0eXo0eXo0eXo0eXo0eXo0eXo0eXo0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3Msy8S73w0M9yL/giphy.gif" width="35px"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35px"> About Me
 
 I am a passionate Computer Science student who loves solving problems and building real-world applications. Currently, I am focused on learning software development and data science.
 
