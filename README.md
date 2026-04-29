@@ -37,12 +37,12 @@ I am a passionate Computer Science student who loves solving problems and buildi
 <p align="center">
   <a href="https://codeforces.com/profile/itadnanhussain" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" width="45px" alt="Codeforces" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/itadnanhussain" target="blank">
-    <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" />
-  </a>&nbsp;&nbsp;
-  <a href="https://judge.beecrowd.com/en" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Beecrowd-F9AA33?style=for-the-badge&logo=beecrowd&logoColor=black" alt="beecrowd" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/itadnanhussain/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40px" alt="LeetCode" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/itadnanhussain" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-Dark.png" width="45px" alt="HackerRank" />
   </a>
 </p>
 
