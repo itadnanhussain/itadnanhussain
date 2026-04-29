@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35px"> About Me
 
 I am a passionate Computer Science student who loves solving problems and building real-world applications. Currently, I am focused on learning software development and data science.
 
@@ -16,7 +16,7 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"> Languages & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35px"> Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,mongodb,vscode&theme=dark" />
@@ -24,13 +24,13 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" width="35"> Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" width="35px"> Projects
 
 🔹 **Coming Soon...** (Working on some exciting Data Science projects!)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="35"> Connect with me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="35px"> Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/itadnanhussain/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
@@ -40,7 +40,7 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35px"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itadnanhussain&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Adnan's stats" />
