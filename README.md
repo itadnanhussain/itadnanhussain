@@ -19,7 +19,7 @@ I am a passionate Computer Science student who loves solving problems and buildi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35px"> Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,react,nodejs,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,mongodb,vscode&theme=dark" />
 </p>
 
 ---
