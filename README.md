@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 **Hi there, I'm Adnan Hussain!**
 
-<!--
-**itadnanhussain/itadnanhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+Learner;AI+Enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### 💻 A Technology Enthusiast | CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am a passionate Computer Science student who loves solving problems and building real-world applications.
+Currently, I am focused on learning software development and data science.
+
+* 🌱 Learning: Python, Data Science, Machine Learning
+* 💡 Interested in: AI, Software Development
+* 🎯 Goal: Become a professional Software Engineer
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+
+* Python
+* C
+
+### 📊 Data Science
+
+* Pandas
+* NumPy
+
+### ⚙️ Tools
+
+* Git
+* VS Code
+
+---
+
+## 📂 Projects
+
+🔹 Coming Soon... (Will update with real projects)
+
+---
+
+## 📈 GitHub Stats
+
+*(You can add stats later)*
+
+---
+
+## 📫 Contact Me
+
+* Email: [itadnanhussain@gmail.com](mailto:your@email.com)
+
+---
+
+⭐ “Keep learning, keep building.”
