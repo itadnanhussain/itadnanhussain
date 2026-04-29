@@ -24,7 +24,7 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## 📂 Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" width="35px"> Projects
 
 🔹 **Coming Soon...** (Working on some exciting Data Science projects!)
 
@@ -40,7 +40,7 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35px"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itadnanhussain&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Adnan's stats" />
