@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZ3p6eGZueXo0eXo0eXo0eXo0eXo0eXo0eXo0eXo0eXo0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3Msy8S73w0M9yL/giphy.gif" width="35px"> About Me
 
 I am a passionate Computer Science student who loves solving problems and building real-world applications. Currently, I am focused on learning software development and data science.
 
@@ -16,9 +16,9 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## <img src="https://github.com/TheRealSanjeev/TheRealSanjeev/blob/master/assets/github.gif?raw=true" width="25px"> Languages & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35px"> Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,react,nodejs,mongodb&theme=dark" />
 </p>
 
@@ -30,9 +30,9 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/loop.gif" width="30px"> Connect with me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="35px"> Connect with me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 <a href="mailto:itadnanhussain@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>&nbsp;
 <a href="https://github.com/itadnanhussain" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>&nbsp;
