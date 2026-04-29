@@ -24,6 +24,14 @@ I am a passionate Computer Science student who loves solving problems and buildi
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35px"> GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itadnanhussain&theme=dracula&no-bg=true&column=7" alt="trophy" />
+</p>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" width="35px"> Projects
 
 🔹 **Coming Soon...** (Working on some exciting Data Science projects!)
